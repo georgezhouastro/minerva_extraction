@@ -21,4 +21,7 @@ testwavelengthsolution.py~
 trace_extraction.py~
 trace.py~
 wavelength_correction.py~
-
+\#trace_extraction.py#
+\#*\#
+.#*
+*~
